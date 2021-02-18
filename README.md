@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* 🤖 I’m currently working on [Native Robotics OmniPack](https://native-robotics.com/omnipack)
+* 🧠 I’m currently learning Go
+* 💬 Ask me about Industrial Robots (ABB, Fanuc, KUKA)
+* 📫 How to reach me: [telegram](https://t.me/UncleDaddyRam) / [twitter](https://twitter.com/koalamoondance)
