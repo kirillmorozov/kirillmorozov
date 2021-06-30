@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 * 🤖 I’m working on drivers for different industrial robots
 * 🧠 I’m learning [Go](https://golang.org/) and [TouchDesigner](https://derivative.ca/)
-* 💬 Ask me about Industrial Robots ([ABB](https://new.abb.com/products/robotics), [Fanuc](https://www.fanuc.eu/de/en/robots), [KUKA](https://www.kuka.com/))
-* 📫 How to reach me: [telegram](https://t.me/UncleDaddyRam) / [twitter](https://twitter.com/koalamoondance)
+* 💬 Ask me about Industrial Robots ([ABB](https://new.abb.com/products/robotics), [Fanuc](https://www.fanuc.eu/), [KUKA](https://www.kuka.com/))
+* 📫 How to reach me: [telegram](https://t.me/UncleDaddyRam)
